@@ -15,5 +15,7 @@ My second version of the program is the one I’m currently working on and is ve
 
 I'm currently in the process of updating this second program to make it run better but for now it does work as a proof of concept.
 
+You must have the chromedriver installed. 
+
 
 
