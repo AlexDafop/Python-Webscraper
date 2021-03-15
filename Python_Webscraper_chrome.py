@@ -18,7 +18,7 @@ while True:
     # Set URL that you wish to scrape here
     driver.get('URL')
 
-    time.sleep(5)
+    time.sleep(15)
     a = 0
 
     # set xpath of general element you are searching for
